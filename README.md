@@ -45,4 +45,5 @@
 ## Reference
  - [繼電器教學](https://www.google.com/amp/s/www.instructables.com/5V-Relay-Raspberry-Pi/%3famp_page=true)
  - [語音辨識](https://www.youtube.com/watch?v=R1SFP3t7Gwo&t=312s&ab_channel=Audas)
+ - [語音辨識](https://github.com/AudasWasTaken/Voice_Recognition_RPI)
  - [Pygame套件](https://www.pygame.org/docs/ref/mixer.html)
