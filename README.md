@@ -33,9 +33,9 @@
 
 ### 連接繼電器與LED
  ![](https://i.imgur.com/JANjEYZ.png)
- - -(GND) 接到PIN6
- - +(5V) 接到PIN2
- - s(訊號) 接到PIN40
+ - -(GND) 接到6號腳位
+ - +(5V) 接到2號腳位
+ - s(訊號) 接到40號腳位
 
  - 再把繼電器的NO跟COM用杜邦線接到(沒有去買電線只能用借來的公對公杜邦縣)LED與電池盒上，燈就會隨著繼電器開關亮了。
  - [手把手教學影片](https://www.youtube.com/watch?v=13T4u4ukdjY&ab_channel=YunChihChen)
@@ -48,6 +48,7 @@
  - [繼電器教學](https://www.google.com/amp/s/www.instructables.com/5V-Relay-Raspberry-Pi/%3famp_page=true)
  - [語音辨識](https://www.youtube.com/watch?v=R1SFP3t7Gwo&t=312s&ab_channel=Audas)
  - [Pygame套件](https://www.pygame.org/docs/ref/mixer.html)
+ - [音樂來源](https://www.youtube.com/watch?v=TtQ9hwYoyWQ&ab_channel=%E5%8F%B0%E5%8D%97%E8%91%A1%E8%90%84%E5%9C%92%E6%95%99%E6%9C%83)
 
 ## Demo影片
  - https://www.youtube.com/watch?v=FnkCtDGOXew&t=4s&ab_channel=YunChihChen
