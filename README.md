@@ -1,15 +1,15 @@
 # LSA-Project
 
 ## 設備
-| 設備 | 數量 | 來源   |
-| ---- | ---- | ---- |
-|Raspberry pi3![](https://i.imgur.com/a4iazyc.png)|1|moli 
-|麥克風![](https://i.imgur.com/DB819Rv.png)|1|張董
-|喇叭![](https://i.imgur.com/3BVsP9W.png)|1|張董
-|USB音效卡![](https://i.imgur.com/wyW66tX.png)|1|PXhome|
-|5v繼電器![](https://i.imgur.com/k8xgynw.png)|1|moli|
-|杜邦線![](https://i.imgur.com/NJ5wOPj.png)|數條|moli|
-|氣氛燈(含電池盒)![](https://i.imgur.com/upxrLvP.png)|1|劉董|
+| 設備 | 圖片 | 數量 | 來源   |
+| ---- | ---- | ---- | ---- |
+|Raspberry pi3|![](https://i.imgur.com/a4iazyc.png)|1|moli 
+|麥克風|![](https://i.imgur.com/DB819Rv.png)|1|張董
+|喇叭|![](https://i.imgur.com/3BVsP9W.png)|1|張董
+|USB音效卡|![](https://i.imgur.com/wyW66tX.png)|1|PXhome|
+|5v繼電器|![](https://i.imgur.com/k8xgynw.png)|1|moli|
+|杜邦線|![](https://i.imgur.com/NJ5wOPj.png)|數條|moli|
+|氣氛燈(含電池盒)|![](https://i.imgur.com/upxrLvP.png)|1|劉董|
 
 ## 安裝步驟
 ### 硬體設備
